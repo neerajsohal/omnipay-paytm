@@ -2,7 +2,7 @@
     "name": "neerajsohal/omnipay-paytm",
     "type": "library",
     "description": "PayTM driver for the Omnipay payment processing library",
-    "version" : "0.0.0",
+    "version" : "0.1.0",
     "keywords": [
         "paytm",
         "gateway",

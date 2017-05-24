@@ -2,7 +2,7 @@
     "name": "neerajsohal/omnipay-paytm",
     "type": "library",
     "description": "PayTM driver for the Omnipay payment processing library",
-    "version" : "0.1.1",
+    "version" : "0.1.2",
     "keywords": [
         "paytm",
         "gateway",
@@ -11,7 +11,7 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/sumityadav/omnipay-paytm",
+    "homepage": "https://github.com/neerajsohal/omnipay-paytm",
     "license": "MIT",
     "authors": [
         {

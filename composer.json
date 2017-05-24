@@ -1,7 +1,8 @@
 {
-    "name": "sumityadav/omnipay-paytm",
+    "name": "neerajsohal/omnipay-paytm",
     "type": "library",
-    "description": "PayTm driver for the Omnipay payment processing library",
+    "description": "PayTM driver for the Omnipay payment processing library",
+    "version" : "0.0.0",
     "keywords": [
         "paytm",
         "gateway",
@@ -14,8 +15,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Sumit Kumar",
-            "email": "sumi.yadav@gmail.com"
+            "name": "Neeraj Kumar",
+            "email": "hello@neerajkumar.name"
         }
     ],
     "autoload": {
